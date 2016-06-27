@@ -13,7 +13,7 @@ categories:
   - disinfection
   - dispatch
   - echappee
-  - enphagy
+  - enphagys
   - equipollent
 tags:
   - categories
