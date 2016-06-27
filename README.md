@@ -13,7 +13,7 @@ The theme includes responsive layouts (`single`, `archive`, and `splash` pages) 
 
 ## [Installation and Setup](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/) / [Preview the Theme](https://mmistakes.github.io/minimal-mistakes/)
 
-### Notable Features
+### Notable Features:
 
 - Compatible with Jekyll 3.x and GitHub Pages
 - Several layout options (single, archive, splash pages)
